@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648765517 source:c:\users\tymek\desktop\tymek\c++\matura2013\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+
